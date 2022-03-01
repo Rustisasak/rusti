@@ -1,0 +1,2 @@
+# rusti
+No bad
